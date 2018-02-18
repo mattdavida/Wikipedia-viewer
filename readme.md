@@ -3,5 +3,3 @@ a Wiki search app built using the wikepedia api https://www.mediawiki.org/wiki/A
 
 search Wikipedia entries in a search box and see the resulting Wikipedia entries.
 click a button to see a random Wikipedia entry.
-
-view here: http://mattdavida.x10host.com/Wiki%20Viewer/wiki.html
